@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[25828,["/agentskope-prototype/_next/static/chunks/10xlmmk80~ga2.js","/agentskope-prototype/_next/static/chunks/14d95v2q-d4b-.js","/agentskope-prototype/_next/static/chunks/11tbkfegoc-kn.js"],"default"]
+3:I[39756,["/agentskope-prototype/_next/static/chunks/10xlmmk80~ga2.js","/agentskope-prototype/_next/static/chunks/14d95v2q-d4b-.js"],"default"]
+4:I[37457,["/agentskope-prototype/_next/static/chunks/10xlmmk80~ga2.js","/agentskope-prototype/_next/static/chunks/14d95v2q-d4b-.js"],"default"]
+0:{"rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/agentskope-prototype/_next/static/chunks/11tbkfegoc-kn.js","async":true}]],["$","div",null,{"className":"flex flex-1 min-h-0","children":[["$","$L2",null,{}],["$","div",null,{"className":"flex-1 overflow-auto","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iMzdMej9SlLf4AjEpYl5x"}

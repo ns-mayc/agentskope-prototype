@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+3:I[97367,["/agentskope-prototype/_next/static/chunks/10xlmmk80~ga2.js","/agentskope-prototype/_next/static/chunks/14d95v2q-d4b-.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iMzdMej9SlLf4AjEpYl5x"}
+5:null
+2:E{"digest":"NEXT_REDIRECT;replace;/marketplace;307;"}
